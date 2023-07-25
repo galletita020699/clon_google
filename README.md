@@ -18,5 +18,4 @@ Aprendizaje
 Practicas
 Conocimiento de HTML y CSS
 
-
 ![google](https://github.com/galletita020699/clon_google/assets/140213509/b81b4ff1-bdf4-42d7-a09a-d94e0c70dde3)
