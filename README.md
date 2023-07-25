@@ -1,2 +1,19 @@
 # clon_google
-Clonacion de Interfaz de Google usando HTML Y CSS
+😀Clonacion de la Interfaz de Google usando HTML5 Y CSS3🎇
+## Intro🎇
+Consistio en una practica realizada en el bootcamp de Techonolochicas usando HTML u CSS3
+
+## ¿Porqué utilizaron HTML5 y CSS? 🎪
+CSS es un lenguaje super conocido y más implementarlo en HTML ya que es el mas
+utilizado y basico de hacer una pagina web.🎆
+
+## Que construi?🤔
+Se construyó una interfaz identica a la de Google actualmente, la cual esta divida en tres seccionaes:
+1. Sección Header
+2. Sección Main
+3. Sección Footer
+
+## Objetivos🤗
+Aprendizaje
+Practicas
+Conocimiento de HTML y CSS
